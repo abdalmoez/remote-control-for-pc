@@ -1,0 +1,7 @@
+D:\CommandePC\CmdPC\CmdPC\bin\Debug\CmdPC.exe.config
+D:\CommandePC\CmdPC\CmdPC\bin\Debug\CmdPC.exe
+D:\CommandePC\CmdPC\CmdPC\bin\Debug\CmdPC.pdb
+D:\CommandePC\CmdPC\CmdPC\obj\Debug\CmdPC.csprojResolveAssemblyReference.cache
+D:\CommandePC\CmdPC\CmdPC\obj\Debug\CmdPC.csproj.CoreCompileInputs.cache
+D:\CommandePC\CmdPC\CmdPC\obj\Debug\CmdPC.exe
+D:\CommandePC\CmdPC\CmdPC\obj\Debug\CmdPC.pdb
